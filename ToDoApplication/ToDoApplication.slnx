@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Todo.Service/TodoApp.Service.csproj" Id="5064792b-195c-4726-ae8b-f3a98f13fe10" />
+  <Project Path="../TodoApp.Domain/TodoApp.Domain.csproj" />
+  <Project Path="../TodoApp.Infrastructure/TodoApp.Infrastructure.csproj" />
+  <Project Path="../TodoApp.UnitTests/TodoApp.UnitTests.csproj" />
+  <Project Path="ToDoApplication.csproj" />
+</Solution>

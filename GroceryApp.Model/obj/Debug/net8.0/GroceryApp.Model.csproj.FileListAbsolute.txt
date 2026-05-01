@@ -1,0 +1,11 @@
+C:\Users\kmpom\source\repos\GroceryApp.Model\bin\Debug\net8.0\GroceryApp.Model.deps.json
+C:\Users\kmpom\source\repos\GroceryApp.Model\bin\Debug\net8.0\GroceryApp.Model.dll
+C:\Users\kmpom\source\repos\GroceryApp.Model\bin\Debug\net8.0\GroceryApp.Model.pdb
+C:\Users\kmpom\source\repos\GroceryApp.Model\obj\Debug\net8.0\GroceryApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmpom\source\repos\GroceryApp.Model\obj\Debug\net8.0\GroceryApp.Model.AssemblyInfoInputs.cache
+C:\Users\kmpom\source\repos\GroceryApp.Model\obj\Debug\net8.0\GroceryApp.Model.AssemblyInfo.cs
+C:\Users\kmpom\source\repos\GroceryApp.Model\obj\Debug\net8.0\GroceryApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\kmpom\source\repos\GroceryApp.Model\obj\Debug\net8.0\GroceryApp.Model.dll
+C:\Users\kmpom\source\repos\GroceryApp.Model\obj\Debug\net8.0\refint\GroceryApp.Model.dll
+C:\Users\kmpom\source\repos\GroceryApp.Model\obj\Debug\net8.0\GroceryApp.Model.pdb
+C:\Users\kmpom\source\repos\GroceryApp.Model\obj\Debug\net8.0\ref\GroceryApp.Model.dll

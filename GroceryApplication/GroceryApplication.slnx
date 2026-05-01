@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../GroceryApp.DAL/GroceryApp.DAL.csproj" />
+  <Project Path="../GroceryApp.Model/GroceryApp.Model.csproj" />
+  <Project Path="../GroceryApp.Service/GroceryApp.Service.csproj" />
+  <Project Path="GroceryApplication.csproj" />
+</Solution>

@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kmpom\\source\\repos\\TaskApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5E1056-0AED-AFF6-4A5E-4782800995CA}|TaskApplication.csproj|c:\\users\\kmpom\\source\\repos\\taskapplication\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5E1056-0AED-AFF6-4A5E-4782800995CA}|TaskApplication.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D876E1-1FC5-C0EA-EB9A-A079BB542B3A}|..\\TaskApp.Service\\TaskApp.Service.csproj|c:\\users\\kmpom\\source\\repos\\taskapp.service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFF6038-4638-310F-E47B-5FE1DC5BA152}|..\\TaskApp.Model\\TaskApp.Model.csproj|c:\\users\\kmpom\\source\\repos\\taskapp.model\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CBCC58C-4962-552A-A371-EC451AA5ABD2}|..\\TaskApp.DAL\\TaskApp.DAL.csproj|c:\\users\\kmpom\\source\\repos\\taskapp.dal\\taskapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D876E1-1FC5-C0EA-EB9A-A079BB542B3A}|..\\TaskApp.Service\\TaskApp.Service.csproj|c:\\users\\kmpom\\source\\repos\\taskapp.service\\taskapp.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5E1056-0AED-AFF6-4A5E-4782800995CA}|TaskApplication.csproj|c:\\users\\kmpom\\source\\repos\\taskapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5E1056-0AED-AFF6-4A5E-4782800995CA}|TaskApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5E1056-0AED-AFF6-4A5E-4782800995CA}|TaskApplication.csproj|c:\\users\\kmpom\\source\\repos\\taskapplication\\taskapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FA5E1056-0AED-AFF6-4A5E-4782800995CA}|TaskApplication.csproj|solutionrelative:taskapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5E1056-0AED-AFF6-4A5E-4782800995CA}|TaskApplication.csproj|c:\\users\\kmpom\\source\\repos\\taskapplication\\taskapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA5E1056-0AED-AFF6-4A5E-4782800995CA}|TaskApplication.csproj|solutionrelative:taskapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\TaskApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\TaskApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:02:51.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\TaskApp.DAL\\TaskApplicationContext.cs",
+              "RelativeDocumentMoniker": "..\\TaskApp.DAL\\TaskApplicationContext.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\TaskApp.DAL\\TaskApplicationContext.cs",
+              "RelativeToolTip": "..\\TaskApp.DAL\\TaskApplicationContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T13:38:18.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\TaskApplication\\TaskApplication.csproj",
+              "RelativeDocumentMoniker": "TaskApplication.csproj",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\TaskApplication\\TaskApplication.csproj",
+              "RelativeToolTip": "TaskApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T04:03:28.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\TaskApplication\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\TaskApplication\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T13:54:05.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskApp.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\TaskApp.Service\\TaskApp.Service.csproj",
+              "RelativeDocumentMoniker": "..\\TaskApp.Service\\TaskApp.Service.csproj",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\TaskApp.Service\\TaskApp.Service.csproj",
+              "RelativeToolTip": "..\\TaskApp.Service\\TaskApp.Service.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-11T13:39:01.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\TaskApp.Service\\TaskService.cs",
+              "RelativeDocumentMoniker": "..\\TaskApp.Service\\TaskService.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\TaskApp.Service\\TaskService.cs",
+              "RelativeToolTip": "..\\TaskApp.Service\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T13:39:29.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\TaskApp.Model\\TaskModel.cs",
+              "RelativeDocumentMoniker": "..\\TaskApp.Model\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\TaskApp.Model\\TaskModel.cs",
+              "RelativeToolTip": "..\\TaskApp.Model\\TaskModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:10:52.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskApplication.http",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\TaskApplication\\TaskApplication.http",
+              "RelativeDocumentMoniker": "TaskApplication.http",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\TaskApplication\\TaskApplication.http",
+              "RelativeToolTip": "TaskApplication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-13T04:05:57.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

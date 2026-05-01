@@ -1,0 +1,76 @@
+@GroceryApplication_HostAddress = https://localhost:7266
+
+### REGISTER
+POST {{GroceryApplication_HostAddress}}/api/auth/register
+Content-Type: application/json
+
+{
+  "username": "sarojiniM",
+  "email": "sarojini67@gmail.com",
+  "phone": "8951127468",
+  "age": 22,
+  "password": "Sarojini@1234",
+  "confirmPassword": "Sarojini@1234"
+}
+
+###
+
+### LOGIN
+POST {{GroceryApplication_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+  "username": "sarojiniM",
+  "password": "Sarojini@1234"
+}
+
+###
+
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoic2Fyb2ppbmlNIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiVXNlciIsImV4cCI6MTc3NzYwODgyNywiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NzI2NiIsImF1ZCI6Imh0dHBzOi8vbG9jYWxob3N0OjcyNjYifQ.PzHQ26fIcry3FrrIl5GslttUYplK0PRy8LKwLs6joRE
+
+###
+
+### CREATE ITEM
+POST {{GroceryApplication_HostAddress}}/api/item
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "ItemName": "Banana",
+  "quantity": 5,
+  "Unit":"5kg",
+  "Price":500.00
+}
+
+###
+
+### GET ALL ITEMS
+GET {{GroceryApplication_HostAddress}}/api/item
+Authorization: Bearer {{token}}
+Accept: application/json
+
+###
+
+### GET ITEM BY ID
+GET {{GroceryApplication_HostAddress}}/api/item/a2babdb1-6515-4e78-18a5-08dea7378fe6
+Authorization: Bearer {{token}}
+Accept: application/json
+
+###
+
+PUT {{GroceryApplication_HostAddress}}/api/item
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "id": "a2babdb1-6515-4e78-18a5-08dea7378fe6",
+  "ItemName": "Updated Rice",
+  "quantity": 10,
+  "Unit":"10kg",
+  "Price":100.00
+}
+
+###
+
+DELETE {{GroceryApplication_HostAddress}}/api/item/a63eeeb8-7261-4cbd-1118-08dea736d539
+Authorization: Bearer {{token}}

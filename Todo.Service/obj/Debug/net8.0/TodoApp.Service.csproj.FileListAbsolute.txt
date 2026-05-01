@@ -1,0 +1,17 @@
+C:\Users\kmpom\source\repos\Todo.Service\bin\Debug\net8.0\TodoApp.Service.deps.json
+C:\Users\kmpom\source\repos\Todo.Service\bin\Debug\net8.0\TodoApp.Service.dll
+C:\Users\kmpom\source\repos\Todo.Service\bin\Debug\net8.0\TodoApp.Service.pdb
+C:\Users\kmpom\source\repos\Todo.Service\bin\Debug\net8.0\TodoApp.Domain.dll
+C:\Users\kmpom\source\repos\Todo.Service\bin\Debug\net8.0\TodoApp.Infrastructure.dll
+C:\Users\kmpom\source\repos\Todo.Service\bin\Debug\net8.0\TodoApp.Domain.pdb
+C:\Users\kmpom\source\repos\Todo.Service\bin\Debug\net8.0\TodoApp.Infrastructure.pdb
+C:\Users\kmpom\source\repos\Todo.Service\obj\Debug\net8.0\TodoApp.Service.csproj.AssemblyReference.cache
+C:\Users\kmpom\source\repos\Todo.Service\obj\Debug\net8.0\TodoApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmpom\source\repos\Todo.Service\obj\Debug\net8.0\TodoApp.Service.AssemblyInfoInputs.cache
+C:\Users\kmpom\source\repos\Todo.Service\obj\Debug\net8.0\TodoApp.Service.AssemblyInfo.cs
+C:\Users\kmpom\source\repos\Todo.Service\obj\Debug\net8.0\TodoApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\kmpom\source\repos\Todo.Service\obj\Debug\net8.0\TodoApp..658A9834.Up2Date
+C:\Users\kmpom\source\repos\Todo.Service\obj\Debug\net8.0\TodoApp.Service.dll
+C:\Users\kmpom\source\repos\Todo.Service\obj\Debug\net8.0\refint\TodoApp.Service.dll
+C:\Users\kmpom\source\repos\Todo.Service\obj\Debug\net8.0\TodoApp.Service.pdb
+C:\Users\kmpom\source\repos\Todo.Service\obj\Debug\net8.0\ref\TodoApp.Service.dll

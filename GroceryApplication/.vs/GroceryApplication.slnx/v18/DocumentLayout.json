@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\groceryapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:groceryapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1052C96A-2755-0CF6-160A-A065CCA40E55}|..\\GroceryApp.Service\\GroceryApp.Service.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\groceryapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:groceryapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1052C96A-2755-0CF6-160A-A065CCA40E55}|..\\GroceryApp.Service\\GroceryApp.Service.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.service\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1052C96A-2755-0CF6-160A-A065CCA40E55}|..\\GroceryApp.Service\\GroceryApp.Service.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.service\\grocerytransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1052C96A-2755-0CF6-160A-A065CCA40E55}|..\\GroceryApp.Service\\GroceryApp.Service.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1052C96A-2755-0CF6-160A-A065CCA40E55}|..\\GroceryApp.Service\\GroceryApp.Service.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.service\\groceryapp.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04388E-9FF1-C2E8-31A4-13FBBE48B513}|..\\GroceryApp.Model\\GroceryApp.Model.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04388E-9FF1-C2E8-31A4-13FBBE48B513}|..\\GroceryApp.Model\\GroceryApp.Model.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.model\\groceryapp.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AD17F3-1AEC-E452-AC32-796E869CB12D}|..\\GroceryApp.DAL\\GroceryApp.DAL.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.dal\\groceryapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\controllers\\groceryentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:controllers\\groceryentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|c:\\users\\kmpom\\source\\repos\\groceryapplication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0980-1392-4AED-E861-E559C8679BF1}|GroceryApplication.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1052C96A-2755-0CF6-160A-A065CCA40E55}|..\\GroceryApp.Service\\GroceryApp.Service.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1052C96A-2755-0CF6-160A-A065CCA40E55}|..\\GroceryApp.Service\\GroceryApp.Service.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AD17F3-1AEC-E452-AC32-796E869CB12D}|..\\GroceryApp.DAL\\GroceryApp.DAL.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.dal\\migrations\\20260422155722_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AD17F3-1AEC-E452-AC32-796E869CB12D}|..\\GroceryApp.DAL\\GroceryApp.DAL.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.dal\\groceryappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AD17F3-1AEC-E452-AC32-796E869CB12D}|..\\GroceryApp.DAL\\GroceryApp.DAL.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04388E-9FF1-C2E8-31A4-13FBBE48B513}|..\\GroceryApp.Model\\GroceryApp.Model.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.model\\grocerytrasactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04388E-9FF1-C2E8-31A4-13FBBE48B513}|..\\GroceryApp.Model\\GroceryApp.Model.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.model\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04388E-9FF1-C2E8-31A4-13FBBE48B513}|..\\GroceryApp.Model\\GroceryApp.Model.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.model\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA04388E-9FF1-C2E8-31A4-13FBBE48B513}|..\\GroceryApp.Model\\GroceryApp.Model.csproj|c:\\users\\kmpom\\source\\repos\\groceryapp.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroceryApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\GroceryApplication.csproj",
+              "RelativeDocumentMoniker": "GroceryApplication.csproj",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\GroceryApplication.csproj",
+              "RelativeToolTip": "GroceryApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T13:50:58.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-22T14:57:48.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\DTOs\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\DTOs\\RegisterModel.cs",
+              "RelativeToolTip": "DTOs\\RegisterModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:51:58.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:01:38.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroceryApplication.http",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\GroceryApplication.http",
+              "RelativeDocumentMoniker": "GroceryApplication.http",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\GroceryApplication.http",
+              "RelativeToolTip": "GroceryApplication.http",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-24T16:56:46.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:03:08.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Controllers\\ItemController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:12:50.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\JwtService.cs",
+              "RelativeToolTip": "..\\GroceryApp.Service\\JwtService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:35:41.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\DTOs\\LoginModel.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\DTOs\\LoginModel.cs",
+              "RelativeToolTip": "DTOs\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:51:20.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:39:14.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\ItemService.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Service\\ItemService.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\ItemService.cs",
+              "RelativeToolTip": "..\\GroceryApp.Service\\ItemService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:27:05.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroceryTransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\GroceryTransactionService.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Service\\GroceryTransactionService.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\GroceryTransactionService.cs",
+              "RelativeToolTip": "..\\GroceryApp.Service\\GroceryTransactionService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:42:46.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\UserService.cs",
+              "RelativeToolTip": "..\\GroceryApp.Service\\UserService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:06:39.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroceryApp.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\GroceryApp.Service.csproj",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Service\\GroceryApp.Service.csproj",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\GroceryApp.Service.csproj",
+              "RelativeToolTip": "..\\GroceryApp.Service\\GroceryApp.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T06:06:25.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\UserModel.cs",
+              "RelativeToolTip": "..\\GroceryApp.Model\\UserModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:36:00.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:17:45.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GroceryApp.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.DAL\\GroceryApp.DAL.csproj",
+              "RelativeDocumentMoniker": "..\\GroceryApp.DAL\\GroceryApp.DAL.csproj",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.DAL\\GroceryApp.DAL.csproj",
+              "RelativeToolTip": "..\\GroceryApp.DAL\\GroceryApp.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T14:44:55.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroceryApp.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\GroceryApp.Model.csproj",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Model\\GroceryApp.Model.csproj",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\GroceryApp.Model.csproj",
+              "RelativeToolTip": "..\\GroceryApp.Model\\GroceryApp.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T14:52:49.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBQwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:57:26.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GroceryEntryController.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Controllers\\GroceryEntryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroceryEntryController.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApplication\\Controllers\\GroceryEntryController.cs",
+              "RelativeToolTip": "Controllers\\GroceryEntryController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswDsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:21:45.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\CategoryService.cs",
+              "RelativeToolTip": "..\\GroceryApp.Service\\CategoryService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T08:33:11.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Service\\Class1.cs",
+              "RelativeToolTip": "..\\GroceryApp.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:06:15.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260422155722_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.DAL\\Migrations\\20260422155722_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.DAL\\Migrations\\20260422155722_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.DAL\\Migrations\\20260422155722_InitialCreate.cs",
+              "RelativeToolTip": "..\\GroceryApp.DAL\\Migrations\\20260422155722_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:57:22.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GroceryAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.DAL\\GroceryAppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.DAL\\GroceryAppDbContext.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.DAL\\GroceryAppDbContext.cs",
+              "RelativeToolTip": "..\\GroceryApp.DAL\\GroceryAppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:45:11.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.DAL\\Class1.cs",
+              "RelativeToolTip": "..\\GroceryApp.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:44:50.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GroceryTrasactionModel.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\GroceryTrasactionModel.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Model\\GroceryTrasactionModel.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\GroceryTrasactionModel.cs",
+              "RelativeToolTip": "..\\GroceryApp.Model\\GroceryTrasactionModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:53:03.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Model\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\CategoryModel.cs",
+              "RelativeToolTip": "..\\GroceryApp.Model\\CategoryModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:36:40.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\ItemModel.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Model\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\ItemModel.cs",
+              "RelativeToolTip": "..\\GroceryApp.Model\\ItemModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA/wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:34:25.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\GroceryApp.Model\\Class1.cs",
+              "ToolTip": "C:\\Users\\kmpom\\source\\repos\\GroceryApp.Model\\Class1.cs",
+              "RelativeToolTip": "..\\GroceryApp.Model\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:35:09.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

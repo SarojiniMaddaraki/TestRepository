@@ -1,0 +1,17 @@
+C:\Users\kmpom\source\repos\GroceryApp.DAL\bin\Debug\net8.0\GroceryApp.DAL.deps.json
+C:\Users\kmpom\source\repos\GroceryApp.DAL\bin\Debug\net8.0\GroceryApp.DAL.runtimeconfig.json
+C:\Users\kmpom\source\repos\GroceryApp.DAL\bin\Debug\net8.0\GroceryApp.DAL.dll
+C:\Users\kmpom\source\repos\GroceryApp.DAL\bin\Debug\net8.0\GroceryApp.DAL.pdb
+C:\Users\kmpom\source\repos\GroceryApp.DAL\bin\Debug\net8.0\GroceryApp.Model.dll
+C:\Users\kmpom\source\repos\GroceryApp.DAL\bin\Debug\net8.0\GroceryApp.Model.pdb
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\GroceryApp.DAL.csproj.AssemblyReference.cache
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\GroceryApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\GroceryApp.DAL.AssemblyInfoInputs.cache
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\GroceryApp.DAL.AssemblyInfo.cs
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\GroceryApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\GroceryA.BE228945.Up2Date
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\GroceryApp.DAL.dll
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\refint\GroceryApp.DAL.dll
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\GroceryApp.DAL.pdb
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\GroceryApp.DAL.genruntimeconfig.cache
+C:\Users\kmpom\source\repos\GroceryApp.DAL\obj\Debug\net8.0\ref\GroceryApp.DAL.dll
